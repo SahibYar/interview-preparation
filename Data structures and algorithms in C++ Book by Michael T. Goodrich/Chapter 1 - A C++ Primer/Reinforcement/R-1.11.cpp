@@ -24,7 +24,7 @@ private:
 public:
     explicit Flower() : name(""), pedals(0), price(0.0) {}
 
-    explicit Flower(const string &n, const int &pd, const float &pr)
+    explicit Flower(const string &n, int pd, float pr)
             : name(n), pedals(pd), price(pr) {}
 
     Flower(const Flower &f) {
