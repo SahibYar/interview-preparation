@@ -32,6 +32,6 @@ ostream& operator<<(ostream& out, const CreditCard& c)
     out << "Number = "  <<  c.getNumber()    << "\n"
         << "Name = "    <<  c.getName()      << "\n"
         << "Balance = " <<  c.getBalance()   << "\n"
-        << "Limit = "   <<  c.limit()        << "\n";
+        << "Limit = "   <<  c.getLimit()        << "\n";
     return out;
 }
