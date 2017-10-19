@@ -1,11 +1,11 @@
 //
-// Created by developers on 10/19/17.
+// Created by Sahib Yar on 10/19/17.
 //
 
 /*
  * Modify the CreditCard class from Code Fragment 1.3 to check that the
-price argument passed to function chargeIt and the payment argument
-passed to function makePayment are positive.
+ * price argument passed to function chargeIt and the payment argument
+ * passed to function makePayment are positive.
  */
 
 #include "CreditCard.h"     // provide CreditCard
