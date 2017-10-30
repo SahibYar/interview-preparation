@@ -30,7 +30,12 @@ public:
 
     bool chargeIt(double price);            // make a charge
     void makePayment(double payment);       // make a payment
-    double chargeInterest(double payment);  // charge interest on each transaction depending on payment.
+
+    /// <summary>Charge the late fee, if the payment is being done after passed day</summary>
+    /// <param name="payment">Amount of payment in double</param>
+    /// <param name="noDay">Total number of days, passed after the dew date.</param>
+    /// <returns>Value of Late Fee.</returns>
+    double lateFee(double payment, int noDay) const;
 private:
     std::string number;     // credit card number
     std::string name;       // card owner's name
