@@ -68,4 +68,9 @@ Company Name   | Position | Applied Date | Location
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/19161-real-time-software-developer) |Real-Time Software Developer| April 14,2019| Natick-MA-USA
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/19598-c-graph-transformations-engineer) |C++ Graph Transformations Engineer| April 14,2019| Natick-MA-USA
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16067-matlab-coder-software-engineer-in-test) |MATLAB Coder Software Engineer| April 14,2019| Natick-MA-USA
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/20613-code-analysis-software-engineer-in-test) |Code Analysis Software Engineer| April 14,2019| Natick-MA-USA
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/20776-c-software-engineer) |C++ Software Engineer| April 14,2019| Natick-MA-USA
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/19808-c-software-engineer-user-interface) |C++ Software Engineer| April 14,2019| Natick-MA-USA
+[Teradata](https://careers.teradata.com/index.gp?opportunityID=203924&method=cappportal.showJob&sysLayoutID=122) |Software Engineer C -C++| April 14,2019| Toronto, Canada
+
 
