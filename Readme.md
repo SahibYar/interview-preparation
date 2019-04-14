@@ -36,5 +36,7 @@ Company Name   | Position | Applied Date | Location
 [Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzMyH2nz2NvBX) | Software Engineer C++ | April 14,2019 | 935 Stewart Drive, Sunnyvale, CA, USA
 [Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzBKlKcrJXju_) | Software Engineer | April 14,2019 | Nashville, TN, USA
 [Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzPv1SWYvD1rX) | Software Engineer | April 14,2019 | Brentwood, TN, USA
-
-
+[Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzAFRlnPw3DnM) | API & Integration Support Engineer (Junior) | April 14,2019 | Westminster, CO, USA
+[Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzIgmo6Z5kPeI) | Software Engineer | April 14,2019 | 
+Oklahoma City, OK, USA
+[Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzNuUsg_IWSI-) | Software Implementation Consultant | April 14,2019 | Oklahoma City, OK, USA
