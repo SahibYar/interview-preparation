@@ -16,6 +16,11 @@ Company Name   | Position | Applied Date | Location
 [Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzN0Zemhnsn62) | Software Engineer | April 14,2019 | Lille, France
 [Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzM9QDBMKi4Ci) | Senior Software Engineer C++ | April 14,2019 | Espoo, Finland
 [Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzH5Kc8HxxUdS) | Software Delivery Engineer | April 14,2019 | Leeds, UK
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/19398-software-engineer-c-c) | Software Engineer - C/C++ | April 14,2019 | Grenoble, France
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/20970-software-engineer-c-c) | Software Engineer - C/C++ | April 14,2019 | Grenoble, France
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/19416-senior-c-c-software-engineer) | Sr. Software Engineer - C/C++ | April 14,2019 | Meudon, France
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/19897-c-c-software-engineer) | Sr. Software Engineer - C/C++ | April 14,2019 | Meudon, France
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/19901-senior-c-c-software-engineer) | Sr. Software Engineer - C/C++ | April 14,2019 | Meudon, France
 
 ## Pakistan Jobs
 Company Name   | Position | Applied Date | Location 
@@ -41,3 +46,4 @@ Company Name   | Position | Applied Date | Location
 [Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzIgmo6Z5kPeI) |Software Engineer|April 14,2019|Oklahoma City, OK, USA
 [Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzNuUsg_IWSI-)|Software Implementation Consultant|April 14,2019|Oklahoma City, OK, USA
 [Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzJAZgQZew5gp) | Application Engineer | April 14,2019 | North Vancouver, BC, Canada
+
