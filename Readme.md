@@ -42,7 +42,7 @@ Company Name   | Position | Applied Date | Location
 ## Remote Jobs
 Company Name   | Position | Applied Date 
 --------------- | -------------------- | --------------------
-[CROSSOVER](https://app.crossover.com/x/marketplace/available-jobs) | Software Engineer | April 14,2019
+[~CROSSOVER~](https://app.crossover.com/x/marketplace/available-jobs) | Software Engineer | April 14,2019
 
 ## North and South America Jobs
 Company Name   | Position | Applied Date | Location 
@@ -60,5 +60,6 @@ Company Name   | Position | Applied Date | Location
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/8892-senior-c-software-engineer) | Sr C++ Software Engineer | April 14,2019 | Natick-MA-USA
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/9537-senior-software-engineer) | Sr C++ Software Engineer | April 14,2019 | Natick-MA-USA
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/9547-software-magician) | Software Magician | April 14,2019 | Natick-MA-USA
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/15993-software-solutions-engineer) | Software Solutions Engineer | April 14,2019 | Natick-MA-USA
 
 
