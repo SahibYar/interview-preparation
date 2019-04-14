@@ -21,6 +21,9 @@ Company Name   | Position | Applied Date | Location
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/19416-senior-c-c-software-engineer) | Sr. Software Engineer - C/C++ | April 14,2019 | Meudon, France
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/19897-c-c-software-engineer) | Sr. Software Engineer - C/C++ | April 14,2019 | Meudon, France
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/19901-senior-c-c-software-engineer) | Sr. Software Engineer - C/C++ | April 14,2019 | Meudon, France
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/17492-software-engineer-simulink-applications) | Software Engineer | April 14,2019 | Cambridge, UK
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/19731-cloud-product-developer) | Cloud Product Developer | April 14,2019 | Cambridge, UK
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/19933-software-engineer-code-development-tools) | Software Engineer | April 14,2019 | Cambridge, UK
 
 ## Pakistan Jobs
 Company Name   | Position | Applied Date | Location 
