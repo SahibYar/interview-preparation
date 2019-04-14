@@ -27,6 +27,11 @@ Company Name   | Position | Applied Date | Location
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/19824-software-engineer-code-generation) | Software Engineer | April 14,2019 | Cambridge, UK
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/19825-software-engineer-matlab-and-c) | Software Engineer | April 14,2019 | Cambridge, UK
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/19838-software-engineer-in-test-c-infrastructure) | Software Engineer Test | April 14,2019 | Cambridge, UK
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/20943-parallel-computing-software-engineer) | Parallel Computing Software Engineer | April 14,2019 | Cambridge, UK
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/20930-software-engineer-in-test-simulink-teams) |Software Engineer In Test| April 14,2019 | Cambridge, UK 
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/21045-software-engineer) |Software Engineer| April 14,2019 |Cambridge, UK
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/21101-software-engineer) |Software Engineer| April 14,2019 |Cambridge, UK
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/21048-parallel-algorithms-software-engineer) |Parallel Algorithms Software Engineer| April 14,2019 |Cambridge, UK
 
 ## Pakistan Jobs
 Company Name   | Position | Applied Date | Location 
