@@ -63,3 +63,9 @@ Company Name   | Position | Applied Date | Location
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/15993-software-solutions-engineer) | Software Solutions Engineer | April 14,2019 | Natick-MA-USA
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/15762-c-software-engineer) | C++ Software Engineer | April 14,2019 | Natick-MA-USA
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/17507-c-software-engineer) | C++ Software Engineer | April 14,2019 | Natick-MA-USA
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/14087-compiler-engineer-entry-level) | Compiler Engineer | April 14,2019 | Natick-MA-USA
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/19042-senior-api-software-engineer-c) | Senior API Software Engineer - C++ | April 14,2019 | Natick-MA-USA
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/19161-real-time-software-developer) |Real-Time Software Developer| April 14,2019| Natick-MA-USA
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/19598-c-graph-transformations-engineer) |C++ Graph Transformations Engineer| April 14,2019| Natick-MA-USA
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/16067-matlab-coder-software-engineer-in-test) |MATLAB Coder Software Engineer| April 14,2019| Natick-MA-USA
+
