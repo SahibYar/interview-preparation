@@ -61,5 +61,5 @@ Company Name   | Position | Applied Date | Location
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/9537-senior-software-engineer) | Sr C++ Software Engineer | April 14,2019 | Natick-MA-USA
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/9547-software-magician) | Software Magician | April 14,2019 | Natick-MA-USA
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/15993-software-solutions-engineer) | Software Solutions Engineer | April 14,2019 | Natick-MA-USA
-
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/15762-c-software-engineer) | C++ Software Engineer | April 14,2019 | Natick-MA-USA
 
