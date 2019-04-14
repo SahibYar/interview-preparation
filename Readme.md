@@ -32,12 +32,15 @@ Company Name   | Position | Applied Date | Location
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/21045-software-engineer) |Software Engineer| April 14,2019 |Cambridge, UK
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/21101-software-engineer) |Software Engineer| April 14,2019 |Cambridge, UK
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/21048-parallel-algorithms-software-engineer) |Parallel Algorithms Software Engineer| April 14,2019 |Cambridge, UK
+[MathWorks](https://careers.teradata.com/index.gp?method=cappportal.showJob&syslayoutid=122&opportunityid=204044) |Software Engineer| April 14,2019 | Stockholm, Sweden
+
 
 ## Pakistan Jobs
 Company Name   | Position | Applied Date | Location 
 --------------- | -------------------- | -------------------- | --------------------
 [KeepTruckin](https://jobs.lever.co/keeptruckin/31f2d455-5e8d-4bf8-b01e-de78dede0ab8) | Sr. Software Engineer | April 14,2019 | Lahore, PK
 [cdzr-services-limited](https://www.rozee.pk/cdzr-services-limited-senior-software-engineer-net-lahore-jobs-943590.php) | Sr. Software Engineer | April 14,2019 | Lahore, PK
+[Teradata](https://careers.teradata.com/index.gp?opportunityID=203567&method=cappportal.showJob&sysLayoutID=122) |Software Engineer | April 14,2019 | Lahore, PK
 
 ## Remote Jobs
 Company Name   | Position | Applied Date 
@@ -72,5 +75,6 @@ Company Name   | Position | Applied Date | Location
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/20776-c-software-engineer) |C++ Software Engineer| April 14,2019| Natick-MA-USA
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/19808-c-software-engineer-user-interface) |C++ Software Engineer| April 14,2019| Natick-MA-USA
 [Teradata](https://careers.teradata.com/index.gp?opportunityID=203924&method=cappportal.showJob&sysLayoutID=122) |Software Engineer C -C++| April 14,2019| Toronto, Canada
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/19747-software-engineer-server-platform) |Software Engineer - Server Platform| April 14,2019| Natick-MA-USA
 
 
