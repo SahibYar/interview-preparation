@@ -30,14 +30,13 @@ Company Name   | Position | Applied Date
 ## North and South America Jobs
 Company Name   | Position | Applied Date | Location 
 --------------- | -------------------- | -------------------- | --------------------
-[Trimble MAPS](https://careers.trimble.com/jobs/engineering/princeton-nj-us/senior-software-engineer-c-/P_AAAAAAEAAIzDXnOpGVC3Ml?lang=en_us#/) | Senior Software Engineer, C++ | April 14,2019 | Princeton, NJ, USA
-[Trimble MAPS](https://careers.trimble.com/jobs/engineering/4772-walnut-st-boulder-co-80301-us/software-engineer-c-sketchup-skore-team/P_AAAAAAEAAIzPFLVMlfMvrs?lang=en_us#/) | Software Engineer C++, | April 14,2019 | 4772 Walnut Street, Boulder, CO, USA
-[Argo AI](https://boards.greenhouse.io/argo/jobs/1620639) | Senior Software Engineer, C++ | April 14,2019 | Palo Alto, CA, US
-[Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzMyH2nz2NvBX) | Software Engineer C++ | April 14,2019 | 935 Stewart Drive, Sunnyvale, CA, USA
-[Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzBKlKcrJXju_) | Software Engineer | April 14,2019 | Nashville, TN, USA
-[Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzPv1SWYvD1rX) | Software Engineer | April 14,2019 | Brentwood, TN, USA
-[Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzAFRlnPw3DnM) | API & Integration Support Engineer (Junior) | April 14,2019 | Westminster, CO, USA
-[Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzIgmo6Z5kPeI) | Software Engineer | April 14,2019 | 
-Oklahoma City, OK, USA
-[Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzNuUsg_IWSI-) | Software Implementation Consultant | April 14,2019 | Oklahoma City, OK, USA
+[Trimble MAPS](https://careers.trimble.com/jobs/engineering/princeton-nj-us/senior-software-engineer-c-/P_AAAAAAEAAIzDXnOpGVC3Ml?lang=en_us#/) | Sr Software Engineer, C++ | April 14,2019 | Princeton, NJ, USA
+[Trimble MAPS](https://careers.trimble.com/jobs/engineering/4772-walnut-st-boulder-co-80301-us/software-engineer-c-sketchup-skore-team/P_AAAAAAEAAIzPFLVMlfMvrs?lang=en_us#/) | Software Engineer C++, | April 14,2019 | Boulder, CO, USA
+[Argo AI](https://boards.greenhouse.io/argo/jobs/1620639) | Sr Software Engineer, C++ | April 14,2019 | Palo Alto, CA, US
+[Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzMyH2nz2NvBX) | Software Engineer C++ |April 14,2019 | Sunnyvale, CA, USA
+[Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzBKlKcrJXju_) | Software Engineer |April 14,2019| Nashville, TN, USA
+[Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzPv1SWYvD1rX) | Software Engineer |April 14,2019| Brentwood, TN, USA
+[Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzAFRlnPw3DnM) | API & Integration Support Engineer |April 14,2019| Westminster, CO, USA
+[Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzIgmo6Z5kPeI) |Software Engineer|April 14,2019|Oklahoma City, OK, USA
+[Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzNuUsg_IWSI-)|Software Implementation Consultant|April 14,2019|Oklahoma City, OK, USA
 [Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzJAZgQZew5gp) | Application Engineer | April 14,2019 | North Vancouver, BC, Canada
