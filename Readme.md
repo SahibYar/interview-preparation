@@ -11,6 +11,8 @@ Company Name   | Position | Applied Date | Location
 Company Name   | Position | Applied Date | Location 
 --------------- | -------------------- | -------------------- | --------------------
 [Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzDkWsL_-uYFZ) | Senior Software Engineer | April 14,2019 | Sandvika, Norway
+[Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzFhq28Xb3SGd) | Software Engineer | April 14,2019 | Sweden
+[Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzJ4X4X7Z3-qr) | Software Engineer / .NET Developer | April 14,2019 | Lithuania
 
 ## Pakistan Jobs
 Company Name   | Position | Applied Date | Location 
