@@ -58,5 +58,7 @@ Company Name   | Position | Applied Date | Location
 [Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzNuUsg_IWSI-)|Software Implementation Consultant|April 14,2019|Oklahoma City, OK, USA
 [Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzJAZgQZew5gp) | Application Engineer | April 14,2019 | North Vancouver, BC, Canada
 [MathWorks](https://www.mathworks.com/company/jobs/opportunities/8892-senior-c-software-engineer) | Sr C++ Software Engineer | April 14,2019 | Natick-MA-USA
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/9537-senior-software-engineer) | Sr C++ Software Engineer | April 14,2019 | Natick-MA-USA
+[MathWorks](https://www.mathworks.com/company/jobs/opportunities/9547-software-magician) | Software Magician | April 14,2019 | Natick-MA-USA
 
 
