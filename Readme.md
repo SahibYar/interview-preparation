@@ -27,7 +27,7 @@ Company Name   | Position | Applied Date
 --------------- | -------------------- | --------------------
 [CROSSOVER](https://app.crossover.com/x/marketplace/available-jobs) | Software Engineer | April 14,2019
 
-## USA Jobs
+## North and South America Jobs
 Company Name   | Position | Applied Date | Location 
 --------------- | -------------------- | -------------------- | --------------------
 [Trimble MAPS](https://careers.trimble.com/jobs/engineering/princeton-nj-us/senior-software-engineer-c-/P_AAAAAAEAAIzDXnOpGVC3Ml?lang=en_us#/) | Senior Software Engineer, C++ | April 14,2019 | Princeton, NJ, USA
@@ -40,3 +40,4 @@ Company Name   | Position | Applied Date | Location
 [Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzIgmo6Z5kPeI) | Software Engineer | April 14,2019 | 
 Oklahoma City, OK, USA
 [Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzNuUsg_IWSI-) | Software Implementation Consultant | April 14,2019 | Oklahoma City, OK, USA
+[Trimble](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzJAZgQZew5gp) | Application Engineer | April 14,2019 | North Vancouver, BC, Canada
