@@ -15,4 +15,7 @@ Company Name   | Position | Applied Date | Location
 ## USA Jobs
 Company Name   | Position | Applied Date | Location 
 --------------- | -------------------- | -------------------- | --------------------
-[Trimble MAPS](https://careers.trimble.com/jobs/engineering/princeton-nj-us/senior-software-engineer-c-/P_AAAAAAEAAIzDXnOpGVC3Ml?utm_source=linkedin&utm_medium=referral&utm_campaign=ongig-job-aggregators&group=1501#/) | Senior Software Engineer, C++ | April 14,2019 | Princeton, NJ, USA
+[Trimble MAPS](https://careers.trimble.com/jobs/engineering/princeton-nj-us/senior-software-engineer-c-/P_AAAAAAEAAIzDXnOpGVC3Ml?lang=en_us#/) | Senior Software Engineer, C++ | April 14,2019 | Princeton, NJ, USA
+[Trimble MAPS](https://careers.trimble.com/jobs/engineering/4772-walnut-st-boulder-co-80301-us/software-engineer-c-sketchup-skore-team/P_AAAAAAEAAIzPFLVMlfMvrs?lang=en_us#/) | Software Engineer C++, | April 14,2019 | 4772 Walnut Street, Boulder, CO, USA
+[Argo AI](https://boards.greenhouse.io/argo/jobs/1620639) | Senior Software Engineer, C++ | April 14,2019 | Palo Alto, CA, US
+
