@@ -2,10 +2,12 @@
 
 List of companies I applied.
 
-## Asia Jobs
+## Asia Jobs & Ausralia
 Company Name   | Position | Applied Date | Location 
 --------------- | -------------------- | -------------------- | --------------------
 [Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzD4oppDffuxa) | Software Engineer | April 14,2019 | Bangkok, Thailand
+[Optiver](https://www.optiver.com/ap/en/job-opportunities/ap-wd-417) | C++ Developer | April 15,2019 | Sydney, Australia
+[Optiver](https://www.optiver.com/ap/en/job-opportunities/ap-wd-470) | C++ Software Engineer | April 15,2019 | Shanghai, China
 
 ## Europe Jobs
 Company Name   | Position | Applied Date | Location 
@@ -36,8 +38,7 @@ Company Name   | Position | Applied Date | Location
 [Sabre](https://career4.successfactors.com/portalcareer?_s.crb=N9u11le4pLXOTdoWYPyENql16HU%253d) |Sr. Software Perf. Engineer| April 15,2019 | Krakow, Poland
 [Sabre](https://jobs.sabre.com/job/Krakow-Junior-C%2B%2B-Software-Engineer-Crew-Control-30-415/551085500/) |Jr. C++ Software Engineer | April 15,2019 | Krakow, Poland
 [Sabre](https://jobs.sabre.com/job/Krakow-Senior-C%2B%2B-Software-Engineer-30-415/549158200/) |Sr. C++ Software Engineer | April 15,2019 | Krakow, Poland
-
-
+[Optiver](https://www.optiver.com/ap/en/job-opportunities/eu-1207954) | Application Engineer | April 15,2019 | Amsterdam, Netherlands
 
 ## Pakistan Jobs
 Company Name   | Position | Applied Date | Location 
