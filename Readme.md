@@ -40,9 +40,8 @@ Company Name   | Position | Applied Date | Location
 [Sabre](https://jobs.sabre.com/job/Krakow-Senior-C%2B%2B-Software-Engineer-30-415/549158200/) |Sr. C++ Software Engineer | April 15,2019 | Krakow, Poland
 [Optiver](https://www.optiver.com/ap/en/job-opportunities/eu-1207954) | Application Engineer | April 15,2019 | Amsterdam, Netherlands
 [FERCHAU](https://www.linkedin.com/jobs/view/1213658221/) | Software Engineer C++ | April 15,2019 | Barcelona, Spain
-
-
-https://www.optiver.com/ap/en/job-opportunities/eu-1207927
+[Advertima](https://www.advertima.com/company/career-opportunity/) | Sr. Software Engineer C++ | April 16,2019 | Zuric, Switzerland
+[Optiver](https://www.optiver.com/ap/en/job-opportunities/eu-1207927) | Core Application Engineer | April 16,2019 | Amsterdam, Netherlands
 
 ## Pakistan Jobs
 Company Name   | Position | Applied Date | Location 
