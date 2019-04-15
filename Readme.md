@@ -51,7 +51,7 @@ Company Name   | Position | Applied Date | Location
 [Teradata](https://careers.teradata.com/index.gp?opportunityID=203567&method=cappportal.showJob&sysLayoutID=122) |Software Engineer | April 14,2019 | Lahore, PK
 [TPS](http://www.tpsonline.com/website/careers/SeniorSoftwareEngineer.php) |Senior Software Engineer (C/C++) | April 15,2019 | Karachi, PK
 [IBEX](https://www.linkedin.com/jobs/view/1144893285/)|Database Developer| April 16,2019 | Lahore, PK
-
+[NRSP](https://www.linkedin.com/jobs/view/1180437970/)|Assistant Manager Data Warehouse| April 16,2019 | Bahawalpur, PK
 
 ## Remote Jobs
 Company Name   | Position | Applied Date 
