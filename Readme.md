@@ -35,6 +35,7 @@ Company Name   | Position | Applied Date | Location
 [MathWorks](https://careers.teradata.com/index.gp?method=cappportal.showJob&syslayoutid=122&opportunityid=204044) |Software Engineer| April 14,2019 | Stockholm, Sweden
 [Sabre](https://career4.successfactors.com/portalcareer?_s.crb=N9u11le4pLXOTdoWYPyENql16HU%253d) |Sr. Software Perf. Engineer| April 15,2019 | Krakow, Poland
 [Sabre](https://jobs.sabre.com/job/Krakow-Junior-C%2B%2B-Software-Engineer-Crew-Control-30-415/551085500/) |Jr. C++ Software Engineer | April 15,2019 | Krakow, Poland
+[Sabre](https://jobs.sabre.com/job/Krakow-Senior-C%2B%2B-Software-Engineer-30-415/549158200/) |Sr. C++ Software Engineer | April 15,2019 | Krakow, Poland
 
 
 
