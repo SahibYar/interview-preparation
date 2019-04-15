@@ -45,6 +45,8 @@ Company Name   | Position | Applied Date | Location
 [KeepTruckin](https://jobs.lever.co/keeptruckin/31f2d455-5e8d-4bf8-b01e-de78dede0ab8) | Sr. Software Engineer | April 14,2019 | Lahore, PK
 [cdzr-services-limited](https://www.rozee.pk/cdzr-services-limited-senior-software-engineer-net-lahore-jobs-943590.php) | Sr. Software Engineer | April 14,2019 | Lahore, PK
 [Teradata](https://careers.teradata.com/index.gp?opportunityID=203567&method=cappportal.showJob&sysLayoutID=122) |Software Engineer | April 14,2019 | Lahore, PK
+[TPS](http://www.tpsonline.com/website/careers/SeniorSoftwareEngineer.php) |Senior Software Engineer (C/C++) | April 15,2019 | Karachi, PK
+
 
 ## Remote Jobs
 Company Name   | Position | Applied Date 
