@@ -6,7 +6,7 @@ List of companies I applied.
 Company Name   | Position | Applied Date | Location 
 --------------- | -------------------- | -------------------- | --------------------
 [Trimble MAPS](https://hire.withgoogle.com/public/jobs/trimblecom/view/P_AAAAAAEAAIzD4oppDffuxa) | Software Engineer | April 14,2019 | Bangkok, Thailand
-[Optiver](https://www.optiver.com/ap/en/job-opportunities/ap-wd-417) | C++ Developer | April 15,2019 | Sydney, Australia
+[~Optiver~](https://www.optiver.com/ap/en/job-opportunities/ap-wd-417) | C++ Developer | April 15,2019 | Sydney, Australia
 [Optiver](https://www.optiver.com/ap/en/job-opportunities/ap-wd-470) | C++ Software Engineer | April 15,2019 | Shanghai, China
 
 ## Europe Jobs
