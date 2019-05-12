@@ -39,8 +39,9 @@ public:
 
 		std::lock_guard<std::mutex> lockguard(_mutex);
 		dataLoaded = true;
-
+		
 		std::cout << "Loading data from XML file completed\n";
+		_condition.notify_one();
 	}
 
 	void mainTask()
