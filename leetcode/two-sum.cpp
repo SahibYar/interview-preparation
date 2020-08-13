@@ -4,7 +4,6 @@
 
 #include <map>
 #include <vector>
-#include <iostream>
 
 class Solution {
 public:
@@ -34,19 +33,3 @@ public:
         return v_return_index;
     }
 };
-
-void print(std::vector<int> v) {
-    for(const auto &i: v) {
-        std::cout << i << " ";
-    }
-}
-
-int main() {
-    Solution s;
-    std::vector<int> input = {-1,0,4};
-    std::vector<int> output =  s.twoSum(input, 3);
-
-    for(const auto &i: output) {
-        std::cout << i << " ";
-    }
-}
