@@ -32,19 +32,18 @@ public:
     }
 };
 
-#include <iostream>
-
-int main() {
-    Solution s;
-    std::cout << s.lengthOfLongestSubstring("abcabcbb") << std::endl;
-    std::cout << s.lengthOfLongestSubstring("bbbbb") << std::endl;
-    std::cout << s.lengthOfLongestSubstring("pwwkew") << std::endl;
-    std::cout << s.lengthOfLongestSubstring(" ") << std::endl;
-    std::cout << s.lengthOfLongestSubstring("ab") << std::endl;
-    std::cout << s.lengthOfLongestSubstring("aaaaabc") << std::endl;
-    std::cout << s.lengthOfLongestSubstring("dvadf") << std::endl;
-    std::cout << s.lengthOfLongestSubstring("nfpdmpi") << std::endl;
-    std::cout << s.lengthOfLongestSubstring("aabaab!bb") << std::endl;
-
-    return 0;
-}
+//#include <iostream>
+//int main() {
+//    Solution s;
+//    std::cout << s.lengthOfLongestSubstring("abcabcbb") << std::endl;
+//    std::cout << s.lengthOfLongestSubstring("bbbbb") << std::endl;
+//    std::cout << s.lengthOfLongestSubstring("pwwkew") << std::endl;
+//    std::cout << s.lengthOfLongestSubstring(" ") << std::endl;
+//    std::cout << s.lengthOfLongestSubstring("ab") << std::endl;
+//    std::cout << s.lengthOfLongestSubstring("aaaaabc") << std::endl;
+//    std::cout << s.lengthOfLongestSubstring("dvadf") << std::endl;
+//    std::cout << s.lengthOfLongestSubstring("nfpdmpi") << std::endl;
+//    std::cout << s.lengthOfLongestSubstring("aabaab!bb") << std::endl;
+//
+//    return 0;
+//}
