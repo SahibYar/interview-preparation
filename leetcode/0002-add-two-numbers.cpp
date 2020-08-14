@@ -33,3 +33,28 @@ public:
         return return_HEADER->next;
     }
 };
+
+#include <iostream>
+void print(ListNode* v) {
+    while (v) {
+        std::cout << v->val << " ";
+        v = v->next;
+    }
+}
+
+int main() {
+    Solution s;
+
+    ListNode* a = new ListNode(9);
+    a->next = new ListNode(4);
+    a->next->next = new ListNode(3);
+
+    ListNode* b = new ListNode(9);
+    b->next = new ListNode(9);
+    b->next->next = new ListNode(9);
+
+    ListNode* result = s.addTwoNumbers(a,b);
+
+    print(result);
+    return 0;
+}

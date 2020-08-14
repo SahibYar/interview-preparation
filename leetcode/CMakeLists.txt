@@ -5,17 +5,20 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${CMAKE_CURRENT_SOURCE_DIR}/../cmake)
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
 
-set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/../lib)
-set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/..//lib)
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/..//bin)
+set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/../lib/leetcode)
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/../lib/leetcode)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/../bin/leetcode)
 
-file(GLOB SOURCES *.cpp)
-add_executable(${PROJECT_NAME} ${SOURCES})
-
-#add_executable(${PROJECT_NAME} print-subsequences-string.cpp)
+add_executable(two-sum 0001-two-sum.cpp)
+add_executable(add-two-numbers 0002-add-two-numbers.cpp)
+add_executable(longest-substring-without-repeating-characters 0003-longest-substring-without-repeating-characters.cpp)
 
 install(CODE "MESSAGE(\"Installing ${PROJECT_NAME} \")")
-install(TARGETS ${PROJECT_NAME}
+install(TARGETS
+        two-sum
+        add-two-numbers
+        longest-substring-without-repeating-characters
+
         RUNTIME DESTINATION bin
         LIBRARY DESTINATION lib
         ARCHIVE DESTINATION lib)
