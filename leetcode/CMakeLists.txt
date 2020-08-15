@@ -12,6 +12,7 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/../bin/leetcode)
 add_executable(two-sum 0001-two-sum.cpp)
 add_executable(add-two-numbers 0002-add-two-numbers.cpp)
 add_executable(longest-substring-without-repeating-characters 0003-longest-substring-without-repeating-characters.cpp)
+add_executable(median-of-two-sorted-arrays 0004-median-of-two-sorted-arrays.cpp)
 add_executable(longest-palindromic-substring 0005-longest-palindromic-substring.cpp)
 add_executable(zigzag-conversion 0006-zigzag-conversion.cpp)
 install(CODE "MESSAGE(\"Installing ${PROJECT_NAME} \")")
@@ -19,6 +20,7 @@ install(TARGETS
         two-sum
         add-two-numbers
         longest-substring-without-repeating-characters
+        median-of-two-sorted-arrays
         longest-palindromic-substring
         zigzag-conversion
 
