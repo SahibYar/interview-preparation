@@ -15,6 +15,8 @@ add_executable(longest-substring-without-repeating-characters 0003-longest-subst
 add_executable(median-of-two-sorted-arrays 0004-median-of-two-sorted-arrays.cpp)
 add_executable(longest-palindromic-substring 0005-longest-palindromic-substring.cpp)
 add_executable(zigzag-conversion 0006-zigzag-conversion.cpp)
+add_executable(reverse-integer 0007-reverse-integer.cpp)
+
 install(CODE "MESSAGE(\"Installing ${PROJECT_NAME} \")")
 install(TARGETS
         two-sum
@@ -23,6 +25,7 @@ install(TARGETS
         median-of-two-sorted-arrays
         longest-palindromic-substring
         zigzag-conversion
+        reverse-integer
 
         RUNTIME DESTINATION bin
         LIBRARY DESTINATION lib
