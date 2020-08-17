@@ -16,6 +16,7 @@ add_executable(median-of-two-sorted-arrays 0004-median-of-two-sorted-arrays.cpp)
 add_executable(longest-palindromic-substring 0005-longest-palindromic-substring.cpp)
 add_executable(zigzag-conversion 0006-zigzag-conversion.cpp)
 add_executable(reverse-integer 0007-reverse-integer.cpp)
+add_executable(string-to-integer-atoi 0008-string-to-integer-atoi.cpp)
 
 install(CODE "MESSAGE(\"Installing ${PROJECT_NAME} \")")
 install(TARGETS
@@ -26,6 +27,7 @@ install(TARGETS
         longest-palindromic-substring
         zigzag-conversion
         reverse-integer
+        string-to-integer-atoi
 
         RUNTIME DESTINATION bin
         LIBRARY DESTINATION lib
