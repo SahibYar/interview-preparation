@@ -17,6 +17,7 @@ add_executable(longest-palindromic-substring 0005-longest-palindromic-substring.
 add_executable(zigzag-conversion 0006-zigzag-conversion.cpp)
 add_executable(reverse-integer 0007-reverse-integer.cpp)
 add_executable(string-to-integer-atoi 0008-string-to-integer-atoi.cpp)
+add_executable(palindrome-number 0009-palindrome-number.cpp)
 
 install(CODE "MESSAGE(\"Installing ${PROJECT_NAME} \")")
 install(TARGETS
@@ -28,6 +29,7 @@ install(TARGETS
         zigzag-conversion
         reverse-integer
         string-to-integer-atoi
+        palindrome-number
 
         RUNTIME DESTINATION bin
         LIBRARY DESTINATION lib
