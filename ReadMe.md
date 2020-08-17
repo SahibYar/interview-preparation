@@ -7,11 +7,11 @@ Till date it has following submissions.
 | :--- | :--- | :--- |
 | 1 | [two sum](https://github.com/SahibYar/interview-preparation/blob/master/leetcode/0001-two-sum.cpp) | Easy |
 | 2 | [add two numbers](https://github.com/SahibYar/interview-preparation/blob/master/leetcode/0002-add-two-numbers.cpp) | Medium |
-| 3 | [longest substring without repeating characters](https://github.com/SahibYar/interview-preparation/blob/master/leetcode/0003-longest-substring-without-repeating-characters.cpp) | Medium|
-| [0004-median-of-two-sorted-arrays.cpp](https://github.com/SahibYar/interview-preparation/blob/master/leetcode/0004-median-of-two-sorted-arrays.cpp)
-| [0005-longest-palindromic-substring.cpp](https://github.com/SahibYar/interview-preparation/blob/master/leetcode/0005-longest-palindromic-substring.cpp)
-| [0006-zigzag-conversion.cpp](https://github.com/SahibYar/interview-preparation/blob/master/leetcode/0006-zigzag-conversion.cpp)
-| [0007-reverse-integer.cpp](https://github.com/SahibYar/interview-preparation/blob/master/leetcode/0007-reverse-integer.cpp)
-| [0008-string-to-integer-atoi.cpp](https://github.com/SahibYar/interview-preparation/blob/master/leetcode/0008-string-to-integer-atoi.cpp)
-| [0009-palindrome-number.cpp](https://github.com/SahibYar/interview-preparation/blob/master/leetcode/0009-palindrome-number.cpp)
+| 3 | [longest substring without repeating characters](https://github.com/SahibYar/interview-preparation/blob/master/leetcode/0003-longest-substring-without-repeating-characters.cpp) | Medium |
+| 4 | [median of two sorted arrays](https://github.com/SahibYar/interview-preparation/blob/master/leetcode/0004-median-of-two-sorted-arrays.cpp) | Hard :o:|
+| 5 | [longest palindromic substring](https://github.com/SahibYar/interview-preparation/blob/master/leetcode/0005-longest-palindromic-substring.cpp) | Medium |
+| 6 | [zigzag conversion](https://github.com/SahibYar/interview-preparation/blob/master/leetcode/0006-zigzag-conversion.cpp) | Medium |
+| 7 | [reverse integer](https://github.com/SahibYar/interview-preparation/blob/master/leetcode/0007-reverse-integer.cpp) |Essy |
+| 8 | [string to integer atoi](https://github.com/SahibYar/interview-preparation/blob/master/leetcode/0008-string-to-integer-atoi.cpp) | Medium |
+| 9 | [palindrome number](https://github.com/SahibYar/interview-preparation/blob/master/leetcode/0009-palindrome-number.cpp) |Easy |
 
